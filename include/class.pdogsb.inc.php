@@ -15,7 +15,7 @@
  * @link       http://www.php.net/manual/fr/book.pdo.php
  */
 
-class PdoGsb{   		
+class PdoGsb{   		 
       	private static $serveur='mysql:host=localhost';
       	private static $bdd='dbname=GSB';   		
       	private static $user='root' ;    		
